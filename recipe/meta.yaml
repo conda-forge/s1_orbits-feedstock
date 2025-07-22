@@ -1,5 +1,5 @@
 {% set name = "s1_orbits" %}
-{% set version = "0.1.3" %}
+{% set version = "0.2.0" %}
 {% set python_min = "3.9" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/s1_orbits-{{ version }}.tar.gz
-  sha256: 77889dbdf68ae96a9c39c4cf8a10f9a3918d6013235c64cece5f06848b6d9e19
+  sha256: 9ff7561c7fb76490b6a0c232e61f64226899c8424f49ddd05825eb166d0daeb3
 
 build:
   noarch: python
