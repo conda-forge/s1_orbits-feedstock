@@ -27,7 +27,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-s1_orbits-green.svg)](https://anaconda.org/conda-forge/s1_orbits) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/s1_orbits.svg)](https://anaconda.org/conda-forge/s1_orbits) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/s1_orbits.svg)](https://anaconda.org/conda-forge/s1_orbits) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/s1_orbits.svg)](https://anaconda.org/conda-forge/s1_orbits) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-s1__orbits-green.svg)](https://anaconda.org/conda-forge/s1_orbits) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/s1_orbits.svg)](https://anaconda.org/conda-forge/s1_orbits) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/s1_orbits.svg)](https://anaconda.org/conda-forge/s1_orbits) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/s1_orbits.svg)](https://anaconda.org/conda-forge/s1_orbits) |
 
 Installing s1_orbits
 ====================
@@ -149,4 +149,5 @@ Feedstock Maintainers
 * [@jacquelynsmale](https://github.com/jacquelynsmale/)
 * [@jhkennedy](https://github.com/jhkennedy/)
 * [@jtherrmann](https://github.com/jtherrmann/)
+* [@williamh890](https://github.com/williamh890/)
 
